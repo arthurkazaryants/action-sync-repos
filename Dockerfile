@@ -2,7 +2,7 @@
 FROM alpine:3.10
 
 RUN apk update && apk upgrade && \
-    apk add --no-cache git openssh
+    apk add --no-cache git openssh rsync
 
 COPY sync.sh /sync.sh
 
