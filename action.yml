@@ -1,8 +1,8 @@
 name: "Sync Repo To GitLab"
 description: "Sync a repository from GitHub to GitLab"
- branding:
-   icon: "share"
-   color: "orange"
+branding:
+  icon: "share"
+  color: "orange"
 inputs:
   ssh_private_key:
     description: "SSH private key for ssh connection to the target repository"
