@@ -10,7 +10,7 @@ inputs:
   target_repo_url:
     description: "Target url"
     required: true
-  repo_branch:
+  source_branch:
     description: "Source branch"
     required: true
 runs:
