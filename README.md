@@ -1,2 +1,2 @@
 # action-sync-repos
-Mirroring a repository to another repository on GitLab
+Sync a repository from GitHub to GitLab
